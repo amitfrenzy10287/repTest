@@ -1,0 +1,22 @@
+{
+  "name": "reptest",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amitupadhyay10287/repTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amitupadhyay10287/repTest/issues"
+  },
+  "homepage": "https://github.com/amitupadhyay10287/repTest#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
